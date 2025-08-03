@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("YoctoClock")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A teeny tiny clock that lives in your Windows system tray / notification area")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyCompany("NitroGuy")]
 [assembly: AssemblyProduct("YoctoClock")]
-[assembly: AssemblyCopyright("Copyright © HP Inc. 2025")]
+[assembly: AssemblyCopyright("Copyright © NitroGuy 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
